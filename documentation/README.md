@@ -1,3 +1,6 @@
-This folder contains the latest documentation files for the device. 
-This may include working-documents folder in microsoft word/google doc. 
-PDF the final product manual and csv the BOM of the device.
+# Documentation
+
+This folder contains the latest documentation files for the device.
+
+- [BOM_v1.csv](documentation/BOM_v1.csv) - Bill of Materials for the device
+- [VisualDoorbell_Product_Manual_v1.pdf](documentation/VisualDoorbell_Product_Manual_v1.pdf) - Product manual for the device
