@@ -49,17 +49,17 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ## Build Instructions
 
-### 1. Read through the Maker Guide
+### 1. Read through the Product Manual
 
-The [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Product Manual](/documentation/VisualDoorbell_Product_Manual_v1.pdf) contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
+The [Bill of Materials](/documentation/BOM_v1.csv) lists all of the parts and components required to build the Template Device.
 
 ### 3. Assemble the Template Device
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Product Manual](/documentation/VisualDoorbell_Product_Manual_v1.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -71,10 +71,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
-| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
+| Product Manual       | 1.0     | [VisualDoorbell_Product_Manual_v1](/documentation/VisualDoorbell_Product_Manual_v1.pdf)     |
+| Bill of Materials    | 1.0     | [BOM_v1](/documentation/BOM_v1.csv)     |
 
 ## Open Source Attribution
 
